@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(42 - Renseignement d, , inform_cf2d25</name>
+   <tag></tag>
+   <elementGuidId>b55eaafa-912e-4e05-877d-76cc09d47e06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[71]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.mail32.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>20a90a23-16ef-42a4-87fb-bdf95d682297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>f1804f78-8df8-4d0e-a4b4-22ffb7513db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mail32 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>01d35cf5-1279-443a-9dc0-6b0661189e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-my-alert[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 padding-top-15&quot;]/div[@class=&quot;panel-body margin-top-4&quot;]/app-alerts[@class=&quot;ng-star-inserted&quot;]/fieldset[@class=&quot;fieldset mails-config border-0&quot;]/div[@class=&quot;col-md-12 col-xs-12 margin-top-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row form-group ng-star-inserted&quot;]/div[@class=&quot;col-md-2 text-center checkbox-alert&quot;]/input[@class=&quot;mail32 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>7acc86cd-d87c-4371-b057-14b8b39835c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[71]</value>
+      <webElementGuid>43e896d9-6c7d-4904-ab6a-6d7fc55b9a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[16]/div/input</value>
+      <webElementGuid>120d18e5-7fd5-47e1-8dac-067fa6574a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/input</value>
+      <webElementGuid>deca4f47-999b-4832-bca0-38f958a844c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>063ccf7a-4b75-4178-94cb-a6d05ba52637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
