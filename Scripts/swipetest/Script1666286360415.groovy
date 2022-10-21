@@ -30,8 +30,10 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forg
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'), 1)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'), 
+    5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'))
 
 WebUI.closeBrowser()
+
