@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Se dconnecter_fa fa-home</name>
+   <tag></tag>
+   <elementGuidId>e7016e82-2263-456f-a836-9c7114c61379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-home</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='sidebar-home-btn']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b2a3f09-6e95-44cd-a5c8-10d1585306a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-home</value>
+      <webElementGuid>60d4d13b-3cb1-4a86-a4bd-b599c9f1c7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-home-btn&quot;)/span[@class=&quot;fa fa-home&quot;]</value>
+      <webElementGuid>37623fb7-5c86-4bd8-88bf-c372800a6cc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='sidebar-home-btn']/span</value>
+      <webElementGuid>02d410a3-db7a-4994-8ca9-60fb21fbeb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>9733bea2-7182-4783-8c44-c4a8ad477646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

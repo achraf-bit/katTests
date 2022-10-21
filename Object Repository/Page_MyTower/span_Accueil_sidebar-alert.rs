@@ -6,12 +6,12 @@
    <elementGuidId>048d67b4-e71e-4048-bea5-8e950878bc2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='sidebar-alert']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#sidebar-alert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sidebar-alert']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>59af7def-8f25-4482-887a-0e9833befee8</webElementGuid>
+      <webElementGuid>45cf1284-bfcb-4e49-8897-89af0e92bfe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sidebar-alert</value>
+      <webElementGuid>c63d64bd-30b8-4b6a-a06f-1f78d6db8030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-exclamation-circle</value>
+      <webElementGuid>15236267-fb2e-4d24-909b-cd8cad67eff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Alertes</value>
+      <webElementGuid>ed00294f-d383-4d84-805c-0fa229afab5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-alert&quot;)</value>
+      <webElementGuid>c00801d2-6b89-4f14-a88a-3242e5304ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59af7def-8f25-4482-887a-0e9833befee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>e42c42ee-76ab-49a5-babd-637f48415ad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='sidebar-alert']</value>
-      <webElementGuid>d8da9f2e-4029-4030-97a5-b79044328b49</webElementGuid>
+      <webElementGuid>e79157d9-8ca1-4793-bb6f-0247883c1390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='alert-managment']/span</value>
-      <webElementGuid>3546bb07-8ceb-4fb9-9a6b-a7593f771a5e</webElementGuid>
+      <webElementGuid>480cb06d-1ea3-4ace-a1b6-afd04605b17f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +198,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/span</value>
-      <webElementGuid>9217dea6-7c7f-4cb9-8aa9-70261ca74d3c</webElementGuid>
+      <webElementGuid>0405dc1d-b84a-473d-82fb-bc99a7bf3125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +206,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'sidebar-alert' and @title = 'Alertes']</value>
-      <webElementGuid>c818163f-6fe3-4bd9-a126-019054a78c8a</webElementGuid>
+      <webElementGuid>0beb9ba1-ee18-4f30-a1ed-023eb76ccbfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

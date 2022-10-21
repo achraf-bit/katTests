@@ -28,12 +28,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'), 0)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'), 
-    5, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'))
+WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
+
+WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Se dconnecter_fa fa-home'))
 
 WebUI.closeBrowser()
-

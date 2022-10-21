@@ -6,12 +6,12 @@
    <elementGuidId>b55eaafa-912e-4e05-877d-76cc09d47e06</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='checkbox'])[71]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.mail32.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[71]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>20a90a23-16ef-42a4-87fb-bdf95d682297</webElementGuid>
+      <webElementGuid>362a6a1e-0300-4585-9472-6f426d8f8a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>52418a30-9dd4-42d7-a450-da5b06ae3db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mail32 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>f5ee2a3a-0a4f-4da1-a0ad-c4a27c0f753b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-my-alert[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 padding-top-15&quot;]/div[@class=&quot;panel-body margin-top-4&quot;]/app-alerts[@class=&quot;ng-star-inserted&quot;]/fieldset[@class=&quot;fieldset mails-config border-0&quot;]/div[@class=&quot;col-md-12 col-xs-12 margin-top-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row form-group ng-star-inserted&quot;]/div[@class=&quot;col-md-2 text-center checkbox-alert&quot;]/input[@class=&quot;mail32 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>c51fdd63-a51a-4d30-9ee3-d142fabfe11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>20a90a23-16ef-42a4-87fb-bdf95d682297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='checkbox'])[71]</value>
-      <webElementGuid>43e896d9-6c7d-4904-ab6a-6d7fc55b9a81</webElementGuid>
+      <webElementGuid>84b57eb7-b7c6-47f9-a57e-ba47f236ec9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[16]/div/input</value>
-      <webElementGuid>120d18e5-7fd5-47e1-8dac-067fa6574a26</webElementGuid>
+      <webElementGuid>71386014-43be-4562-a008-e9c47ba90abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[16]/div/input</value>
-      <webElementGuid>deca4f47-999b-4832-bca0-38f958a844c8</webElementGuid>
+      <webElementGuid>66b86cd2-4f2b-4ed0-a564-d9cdcd360cd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>063ccf7a-4b75-4178-94cb-a6d05ba52637</webElementGuid>
+      <webElementGuid>e9ce0aac-7b66-4b63-b57c-b4c9bc73b7b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

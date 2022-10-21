@@ -6,16 +6,64 @@
    <elementGuidId>25e3a141-6390-4ae1-b065-4905a801096e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='Sign in']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.submit.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign in']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>96ada426-f55b-46bc-a5eb-1929cc911cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit pointer</value>
+      <webElementGuid>20aff77f-0d4d-4558-ab20-bbe52e949b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>388f6a1f-8b1d-4c44-aaa3-acd0be13dfd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>c09c4e21-cd08-4084-a588-b87b06dbb65f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>157b7448-891e-4fb0-abb7-895821ac35ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-form-login&quot;)/input[@class=&quot;submit pointer&quot;]</value>
+      <webElementGuid>bf75245a-805e-413f-bca4-d7500dbc36d9</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>f2901785-1b48-4584-b64b-99ead14ab635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -166,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Sign in']</value>
-      <webElementGuid>3c9ef4fd-43bb-43f8-b8e7-1b62b7da228a</webElementGuid>
+      <webElementGuid>438f715f-96f5-4eee-9957-b72b0dc38d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']/input[3]</value>
-      <webElementGuid>f0c0518c-160c-41f3-8111-948bacd38076</webElementGuid>
+      <webElementGuid>6196125e-9751-4c32-8b0a-4cdd611298d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>7c3a442e-fdf6-4518-94eb-fa0e5040ba94</webElementGuid>
+      <webElementGuid>801b736f-6b7e-42a6-b444-3d7547faa91d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>969bd1bd-491c-4d6f-9d99-28d8afe6bd9d</webElementGuid>
+      <webElementGuid>702e534d-fcec-44b6-b4e8-f0754a61980d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
