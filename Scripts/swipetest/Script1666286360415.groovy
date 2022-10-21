@@ -32,6 +32,9 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'),
+	5, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Se dconnecter_fa fa-home'))
