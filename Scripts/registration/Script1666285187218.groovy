@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
 
+
+
 WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'),
 	5, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_ab723f'))
