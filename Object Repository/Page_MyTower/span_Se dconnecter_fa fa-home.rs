@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>afccbf4d-50b3-42f3-975f-f4c6ca6e5103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-home</value>
+      <webElementGuid>d76dd523-78d0-42ce-9ed1-08ff34f71658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-home-btn&quot;)/span[@class=&quot;fa fa-home&quot;]</value>
+      <webElementGuid>b0633440-040b-4752-b505-9c363fd94174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>9b2a3f09-6e95-44cd-a5c8-10d1585306a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>60d4d13b-3cb1-4a86-a4bd-b599c9f1c7ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='sidebar-home-btn']/span</value>
-      <webElementGuid>02d410a3-db7a-4994-8ca9-60fb21fbeb94</webElementGuid>
+      <webElementGuid>ae49aa43-194f-416d-b902-ca777a223393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span</value>
-      <webElementGuid>9733bea2-7182-4783-8c44-c4a8ad477646</webElementGuid>
+      <webElementGuid>d9cae50c-f605-4be4-a779-b5b07f3fdb68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -26,21 +26,21 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Fo
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_password'), 
     'cQlZAR1V2CaThNHrQfGK3Q==')
 
+WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/form_Forgotten your password'))
+
 WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'), 0)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/a_Alertes'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
+WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_13 - Demande de cotation'), 0)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/span_13 - Demande de cotation'), 0)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_43 - Partage dinformation'), 0)
-
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_8d2527'), 
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/span_42 - Renseignement dinformations de fa_66e06c'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(43 - Partage d, , information)_8d2527'))
+WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/a_Accueil'))
+WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Se dconnecter_fa fa-home'))
 
 WebUI.closeBrowser()

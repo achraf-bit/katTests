@@ -22,10 +22,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>362a6a1e-0300-4585-9472-6f426d8f8a8a</webElementGuid>
+      <webElementGuid>4e3c71ea-38d0-4a77-ae00-8b6bbd261a54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>7942365a-e537-45fd-8602-3c9cc21e23cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mail32 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>82dc8f32-f978-49df-8d48-338b8b7af3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-my-alert[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 padding-top-15&quot;]/div[@class=&quot;panel-body margin-top-4&quot;]/app-alerts[@class=&quot;ng-star-inserted&quot;]/fieldset[@class=&quot;fieldset mails-config border-0&quot;]/div[@class=&quot;col-md-12 col-xs-12 margin-top-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row form-group ng-star-inserted&quot;]/div[@class=&quot;col-md-2 text-center checkbox-alert&quot;]/input[@class=&quot;mail32 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>9387debf-d939-4360-85d7-6ab731862565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>362a6a1e-0300-4585-9472-6f426d8f8a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -86,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='checkbox'])[71]</value>
-      <webElementGuid>84b57eb7-b7c6-47f9-a57e-ba47f236ec9e</webElementGuid>
+      <webElementGuid>3a429365-a8db-4a38-8651-b98e9e9611ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[16]/div/input</value>
-      <webElementGuid>71386014-43be-4562-a008-e9c47ba90abe</webElementGuid>
+      <webElementGuid>a6b45565-d177-4645-b7bf-6ba1442b9c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[16]/div/input</value>
-      <webElementGuid>66b86cd2-4f2b-4ed0-a564-d9cdcd360cd9</webElementGuid>
+      <webElementGuid>2234dca9-b822-4307-9d97-2637edce5259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>e9ce0aac-7b66-4b63-b57c-b4c9bc73b7b4</webElementGuid>
+      <webElementGuid>20ba94b9-7372-4932-84ae-a04f0e58045a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

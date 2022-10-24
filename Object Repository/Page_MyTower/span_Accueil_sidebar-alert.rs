@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>45cf1284-bfcb-4e49-8897-89af0e92bfe9</webElementGuid>
+      <webElementGuid>5f46b0d2-d385-4891-8e19-b103d94413ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sidebar-alert</value>
+      <webElementGuid>22232efe-3254-46fe-a379-8689944fd686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-exclamation-circle</value>
+      <webElementGuid>de9ce969-ce43-4478-b2e7-2979f779fba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Alertes</value>
+      <webElementGuid>083730cf-4c89-4197-91e4-846acd05346f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-alert&quot;)</value>
+      <webElementGuid>06bd6376-c90e-43fd-9f6a-0bc298b78d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45cf1284-bfcb-4e49-8897-89af0e92bfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>15236267-fb2e-4d24-909b-cd8cad67eff4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
@@ -182,7 +222,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='sidebar-alert']</value>
-      <webElementGuid>e79157d9-8ca1-4793-bb6f-0247883c1390</webElementGuid>
+      <webElementGuid>eb9bb232-de45-49db-a5a4-2a2ece656104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +230,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='alert-managment']/span</value>
-      <webElementGuid>480cb06d-1ea3-4ace-a1b6-afd04605b17f</webElementGuid>
+      <webElementGuid>4a9927ca-999a-4065-93e9-38e6caac02dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +238,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/span</value>
-      <webElementGuid>0405dc1d-b84a-473d-82fb-bc99a7bf3125</webElementGuid>
+      <webElementGuid>7f21e0e2-1453-4485-993e-1a05e37984bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,6 +246,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'sidebar-alert' and @title = 'Alertes']</value>
-      <webElementGuid>0beb9ba1-ee18-4f30-a1ed-023eb76ccbfe</webElementGuid>
+      <webElementGuid>2dcc89f7-5467-4e71-87ef-2df7eb05eca3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

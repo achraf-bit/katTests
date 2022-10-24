@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>01ca6c4a-fb3d-43df-b76a-ffa9f4b5f368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2</value>
+      <webElementGuid>67fbbe83-57c7-4ad4-be51-f8e3bdd09ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 13 - Demande de cotation </value>
+      <webElementGuid>eceb620f-e9c8-4a6a-b4cc-a2ca1ae9f293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-my-alert[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 padding-top-15&quot;]/div[@class=&quot;panel-body margin-top-4&quot;]/app-alerts[@class=&quot;ng-star-inserted&quot;]/fieldset[@class=&quot;fieldset mails-config border-0&quot;]/div[@class=&quot;col-md-12 col-xs-12 margin-top-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row form-group ng-star-inserted&quot;]/span[@class=&quot;col-md-2&quot;]</value>
+      <webElementGuid>da42b1f9-b3ed-4876-b41a-f2ba56cb1b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>2ed9cbc0-7b83-47fb-96e6-3e5314b125d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>fa1c6475-a87a-4d0f-939d-ff48e1df17e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[2]/span</value>
-      <webElementGuid>3376f609-0044-48a5-92f4-4171c0deb881</webElementGuid>
+      <webElementGuid>f14f2fba-8758-4827-8f67-29af925d7561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ici les alertes à envoyer aux contributeurs'])[1]/following::span[1]</value>
-      <webElementGuid>a3047c19-5874-40ee-88a9-64af5cb3acd8</webElementGuid>
+      <webElementGuid>2b9e39be-884d-471b-abc3-20d7099718b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ici les alertes relatives à vos dossiers favoris'])[1]/following::span[1]</value>
-      <webElementGuid>02d591ee-7466-4fb7-988f-c82dddfd6e9b</webElementGuid>
+      <webElementGuid>f6f58474-fd3e-496f-ac99-82e367709170</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('25 - Téléchargement d', &quot;'&quot;, 'un document')])[1]/preceding::span[5]</value>
-      <webElementGuid>89b63984-8601-48c2-a46a-73225611683d</webElementGuid>
+      <webElementGuid>5d0cb2ee-1dbd-42b0-81ef-117c3f2c02d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('26 - Suppression d', &quot;'&quot;, 'un document')])[1]/preceding::span[6]</value>
-      <webElementGuid>090a61e4-1a41-4d3d-9e4b-3e70b2423286</webElementGuid>
+      <webElementGuid>282bf48a-1f0b-4318-839f-56d79c846159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='13 - Demande de cotation']/parent::*</value>
-      <webElementGuid>2da33cdc-b181-428f-b7ef-71744886e1e9</webElementGuid>
+      <webElementGuid>9b556fa6-8c80-4d2b-8477-c74efa932253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span</value>
-      <webElementGuid>6695937a-54c4-4478-9105-58e8cca2c7ce</webElementGuid>
+      <webElementGuid>e9122a1e-794c-4541-b90b-d3001afc02f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' 13 - Demande de cotation ' or . = ' 13 - Demande de cotation ')]</value>
-      <webElementGuid>b93496e1-49f9-4c8a-8389-cd29429d1666</webElementGuid>
+      <webElementGuid>5938084b-e9aa-420e-a04c-b75167e0b1ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
