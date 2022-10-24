@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d94ede53-6940-49be-83a1-607d2ac19507</webElementGuid>
+      <webElementGuid>df5973b7-4309-4aa9-99cb-48f48ee9afbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alert-managment</value>
+      <webElementGuid>f5d13806-6707-41a1-81cc-83471cf39740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/app/user/settings/alerts</value>
+      <webElementGuid>78f7febd-94f3-4d49-ae9c-c4466cedb5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/app/user/settings/alerts</value>
+      <webElementGuid>bb19ea9f-92c8-4b10-b391-c0c1d1074b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alertes</value>
+      <webElementGuid>14479eb4-50f3-48c1-baba-16f74fc064b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-managment&quot;)</value>
+      <webElementGuid>4b968c84-c3da-44f6-8e67-cf3ca0ca70af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d94ede53-6940-49be-83a1-607d2ac19507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +89,7 @@
       <webElementGuid>bec7c2b9-5425-4433-864c-6e4c689b2f42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>647a3349-35ef-4399-91e3-d97ae0c206d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='alert-managment']</value>
-      <webElementGuid>a00b70bc-ae93-441b-b4cb-2e2b7b417e7d</webElementGuid>
+      <webElementGuid>fbd206d0-18d2-4b27-be99-2c5af5ea1782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='sidebar-menu']/li[5]/a</value>
-      <webElementGuid>985b5bec-a514-4b56-9df8-d04221af1788</webElementGuid>
+      <webElementGuid>50f25b65-1636-4fe1-b814-5cc89e728fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accueil'])[1]/following::a[2]</value>
-      <webElementGuid>029eec32-ee32-4d9c-9e91-ceda147218f7</webElementGuid>
+      <webElementGuid>2ff01171-ae5d-4042-8a5f-4f062dcd8ee0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se déconnecter'])[1]/following::a[4]</value>
-      <webElementGuid>8a685c57-ef69-4a63-a9f5-8403c772748b</webElementGuid>
+      <webElementGuid>dd7988b6-0d14-40a2-bb1f-00e009df7b14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::a[1]</value>
-      <webElementGuid>3da89973-f1b1-4eec-a78d-b9ce3638e15c</webElementGuid>
+      <webElementGuid>08c91530-7c2c-4983-bb39-756fd4d710e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +158,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/app/user/settings/alerts')]</value>
-      <webElementGuid>ee0e156d-6e03-4082-ba71-e69bd80772ba</webElementGuid>
+      <webElementGuid>ea898a7c-da7e-424e-8e84-84bf6d65fd04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/div/ul/li[5]/a</value>
-      <webElementGuid>add55379-a198-494d-8378-6d85946c0d77</webElementGuid>
+      <webElementGuid>557524db-fbb2-4577-9ee3-46b9f60656c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'alert-managment' and @href = '/app/user/settings/alerts' and (text() = 'Alertes' or . = 'Alertes')]</value>
-      <webElementGuid>da6c74cd-4aa4-4687-801a-a491a246d2a0</webElementGuid>
+      <webElementGuid>f635c1c3-aac2-406e-bc5c-8bb05dc6bb9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

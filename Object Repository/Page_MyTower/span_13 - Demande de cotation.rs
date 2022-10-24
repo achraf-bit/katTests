@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_13 - Demande de cotation</name>
+   <tag></tag>
+   <elementGuidId>48d98de7-9a75-45bd-867f-1f8cd3996583</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.col-md-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ed9cbc0-7b83-47fb-96e6-3e5314b125d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2</value>
+      <webElementGuid>fa1c6475-a87a-4d0f-939d-ff48e1df17e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 13 - Demande de cotation </value>
+      <webElementGuid>9e930dac-77b7-4c5f-a5f1-fae3c6d15667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-my-alert[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 padding-top-15&quot;]/div[@class=&quot;panel-body margin-top-4&quot;]/app-alerts[@class=&quot;ng-star-inserted&quot;]/fieldset[@class=&quot;fieldset mails-config border-0&quot;]/div[@class=&quot;col-md-12 col-xs-12 margin-top-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row form-group ng-star-inserted&quot;]/span[@class=&quot;col-md-2&quot;]</value>
+      <webElementGuid>03115ff4-7e45-4312-8852-d0b61258e0ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-settings/div/div[3]/app-my-alert/div/div/app-alerts/fieldset/div/form/div[2]/span</value>
+      <webElementGuid>3376f609-0044-48a5-92f4-4171c0deb881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ici les alertes à envoyer aux contributeurs'])[1]/following::span[1]</value>
+      <webElementGuid>a3047c19-5874-40ee-88a9-64af5cb3acd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ici les alertes relatives à vos dossiers favoris'])[1]/following::span[1]</value>
+      <webElementGuid>02d591ee-7466-4fb7-988f-c82dddfd6e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('25 - Téléchargement d', &quot;'&quot;, 'un document')])[1]/preceding::span[5]</value>
+      <webElementGuid>89b63984-8601-48c2-a46a-73225611683d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('26 - Suppression d', &quot;'&quot;, 'un document')])[1]/preceding::span[6]</value>
+      <webElementGuid>090a61e4-1a41-4d3d-9e4b-3e70b2423286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='13 - Demande de cotation']/parent::*</value>
+      <webElementGuid>2da33cdc-b181-428f-b7ef-71744886e1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>6695937a-54c4-4478-9105-58e8cca2c7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 13 - Demande de cotation ' or . = ' 13 - Demande de cotation ')]</value>
+      <webElementGuid>b93496e1-49f9-4c8a-8389-cd29429d1666</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
