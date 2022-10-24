@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forg
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'),
 	5, FailureHandling.STOP_ON_FAILURE)
