@@ -19,28 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://tms.dev.mytower.fr/')
+WebUI.navigateToUrl('https://prism.dev.mytower.io/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_username'), 'mytower2018+soungsid+chargeur@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_password'), 
-    'cQlZAR1V2CaThNHrQfGK3Q==')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/form_Forgotten your password'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/a_Alertes'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/span_13 - Demande de cotation'), 0)
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_MyTower/span_42 - Renseignement dinformations de fa_66e06c'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
-
-WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Se dconnecter_fa fa-home'))
 
 WebUI.closeBrowser()

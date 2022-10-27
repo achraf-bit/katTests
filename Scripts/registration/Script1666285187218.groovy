@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Ma communaut'))
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Accueil_sidebar-alert'))
 
-WebUI.click(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
+WebUI.click(findTestObject('Object Repository/Page_MyTower/input_42'))
 
 
 

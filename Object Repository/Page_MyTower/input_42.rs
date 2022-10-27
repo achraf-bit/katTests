@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_concat(42 - Renseignement d, , inform_cf2d25</name>
+   <name>input_42</name>
    <tag></tag>
    <elementGuidId>b55eaafa-912e-4e05-877d-76cc09d47e06</elementGuidId>
    <selectorCollection>

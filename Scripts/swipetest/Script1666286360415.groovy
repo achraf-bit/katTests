@@ -34,11 +34,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_MyTower/a_Alertes'))
 
 WebUI.delay(5)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'),
+WebUI.scrollToElement(findTestObject('Object Repository/Page_MyTower/input_42'),
 	5, FailureHandling.STOP_ON_FAILURE)
 
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_MyTower/input_concat(42 - Renseignement d, , inform_cf2d25'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_MyTower/input_42'))
 
 WebUI.click(findTestObject('Object Repository/Page_MyTower/span_Se dconnecter_fa fa-home'))
 
